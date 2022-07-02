@@ -45,6 +45,6 @@ $ git push origin {branch_name} *i.e. git push origin main*
 
 **Markdown reminder, A bit out of place I know** 
 
-\&nbsp; - for a single space
-\&ensp; - for 2 spaces
-\&emsp; - for 4 spaces
+\&nbsp; - for a single space  
+\&ensp; - for 2 spaces  
+\&emsp; - for 4 spaces  
