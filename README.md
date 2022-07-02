@@ -6,7 +6,7 @@ This **README** is also used to get familiar with *Markdown* syntax.
 ### Setup
 
 **On local**
-git config --global user.name "name"
+git config --global user.name "name" 
 git config --global user.email "email@addr.com"
 
 
