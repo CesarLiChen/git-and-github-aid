@@ -15,7 +15,8 @@ $ cat ~/.ssh/id_rsa.pub
 
 *the below 2 steps should only be done once per computer*  
 $ git config --global user.name "name"  
-$ git config --global user.email "email@addr.com"
+$ git config --global user.email "email@addr.com"  
+$ git config --global init.defaultBranch main  (only works with git 2.28 and above)
 
 **On local computer, in terminal, inside work directory**  
 
@@ -33,6 +34,7 @@ $ git commit -m "Commit message"
 **Back on local computer, in terminal, inside work directory**
 
 $ git remote add origin {SSH link you copied from Github.com website goes here, without these curly brackets}  
+$ git push origin {branchName, normally 'main'}
 
 And that should be it.
 
