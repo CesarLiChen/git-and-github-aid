@@ -1,7 +1,7 @@
 # git-and-github-aid
 Helps me remember initial git and github setup.  
 This is not meant to be a step-by-step guide.  
-This **README** was also used for me to get familiar with *Markdown* syntax.
+This **README** was also used to get myself familiar with *Markdown* syntax.
 
 ### Setup
 
