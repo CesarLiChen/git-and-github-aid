@@ -23,7 +23,7 @@ $ `git config --global init.defaultBranch main`  (only works with git 2.28 and a
 
 $ `git init`  
 $ `git add .`  
-$ `git status *this is optional*`  
+$ `git status` *this is optional*  
 $ `git commit -m "Commit message"`  
 
 **On Github.com website, create new repository** 
@@ -44,7 +44,7 @@ And that should be it.
 $ `git status`  
 $ `git add .`  
 $ `git commit -m "Message"`  
-$ `git push origin {branch_name} *i.e. git push origin main*`
+$ `git push origin {branch_name}` *e.g. git push origin main*
 
 **Markdown reminder, A bit out of place I know** 
 
